@@ -14,19 +14,18 @@ Servidor Node.js: Desenvolvido juntamente a professores da ETEC de Campo Limpo P
 Sistema de gerencimento de tarefas TimeTables: Desenvolvido juntamente a professores da ETEC de Campo Limpo Paulista para organizar tarefas do dia a dia em um sistema simples e rápido e muito mais como:
 
 Registro e Gestão de Usuários:
-
 Os usuários se cadastram e são validados pelo sistema. O administrador pode ativar, desativar e reativar contas.
+
 Autenticação e Autorização:
-
 Os usuários fazem login com suas credenciais, obtendo acesso conforme suas permissões.
+
 Gestão de Sessões:
-
 As sessões são mantidas ativas durante a navegação, expirando após inatividade.
+
 Medidas de Segurança:
-
 São aplicadas criptografia de senhas, validação de entrada e atualizações regulares para garantir a segurança.
-Melhorias Adicionais:
 
+Melhorias Adicionais:
 Recuperação de senha, registro de atividades e autenticação multifator são implementadas.
 
 ## Contribuições em Código Aberto:
