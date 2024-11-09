@@ -28,6 +28,9 @@ São aplicadas criptografia de senhas, validação de entrada e atualizações r
 Melhorias Adicionais:
 Recuperação de senha, registro de atividades e autenticação multifator são implementadas.
 
+Python em nivel médio:
+Desenvolvimento de pequenos jogos em python, com conceitos mais complicados como malhas
+
 ## Contribuições em Código Aberto:
 
 Além dos projetos mencionados acima, sou um defensor ávido do código aberto e contribuí para diversos projetos de software livre. Minhas contribuições incluem correções de bugs, implementação de novos recursos e revisões de código.
